@@ -2,7 +2,7 @@
 
 <p>An <b>easy</b> table friends birthdays table.</p>
 
-👉 Live Demo: <a href='https://zakharlobai-birthday.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a target=”_blank” href='https://zakharlobai-birthday.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
