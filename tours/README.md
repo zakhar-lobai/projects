@@ -2,6 +2,8 @@
 
 <p>An <b>easy</b> page with tours</p>
 
+👉 Live Demo: <a href='https://zakharlobai-tours.vercel.app/' target='_blank'>Live Demo</a>
+
 <h3>Build with:</h3>
 
 » HTML<br>
