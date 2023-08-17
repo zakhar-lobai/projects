@@ -265,6 +265,7 @@ main {
   max-width: var(--fixed-width);
   background: var(--white);
   padding: 1.5rem 2rem;
+  border-radius: var(--borderRadius);
   box-shadow: var(--shadow-1);
   transition: var(--transition);
   text-align: center;
@@ -272,7 +273,6 @@ main {
 .review:hover {
   box-shadow: var(--shadow-3);
 }
-
 .img-container {
   position: relative;
   width: 150px;
@@ -281,7 +281,6 @@ main {
   margin: 0 auto;
   margin-bottom: 1.5rem;
 }
-
 .person-img {
   width: 100%;
   height: 100%;
@@ -290,7 +289,6 @@ main {
   border-radius: 50%;
   position: relative;
 }
-
 .quote-icon {
   position: absolute;
   top: 0;
@@ -301,24 +299,24 @@ main {
   place-items: center;
   border-radius: 50%;
   transform: translateY(25%);
-  background-color: var(--primary-500);
+  background: var(--primary-500);
   color: var(--white);
 }
-
 .img-container::before {
   content: '';
   width: 100%;
   height: 100%;
   background: var(--primary-500);
   position: absolute;
-  border-radius: 50%;
   top: -0.25rem;
   right: -0.5rem;
+  border-radius: 50%;
 }
 .author {
   margin-bottom: 0.5rem;
 }
 .job {
+  margin-bottom: 0.5rem;
   text-transform: uppercase;
   color: var(--primary-500);
   font-size: 0.85rem;
@@ -326,14 +324,10 @@ main {
   margin-bottom: 0.75rem;
   letter-spacing: var(--letterSpacing);
 }
-
 .info {
   margin-bottom: 0.75rem;
   line-height: 1.5;
   color: var(--grey-600);
-}
-.btn-container {
-  margin-bottom: 1rem;
 }
 .prev-btn,
 .next-btn {
@@ -348,4 +342,7 @@ main {
 .prev-btn:hover,
 .next-btn:hover {
   color: var(--primary-500);
+}
+.btn-container {
+  margin-bottom: 1rem;
 }
