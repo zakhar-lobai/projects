@@ -2,6 +2,8 @@
 
 <p>An reviews slider</p>
 
+👉 Live Demo: <a href='https://zakharlobai-reviews.vercel.app/' target='_blank'>Live Demo</a>
+
 <h3>Build with:</h3>
 
 » HTML<br>
