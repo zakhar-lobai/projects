@@ -22,3 +22,7 @@
 <div align='center'>
 <img src='https://github.com/zakhar-lobai/projects/assets/29870526/515d4f6d-1c34-4264-82a2-3c4fb413ca87'/>
 </div>
+
+<div align='center'>
+<img src='https://github.com/zakhar-lobai/projects/assets/29870526/491c60ac-9cec-4a6a-9e99-cb7ad807df59'/>
+</div>
