@@ -14,6 +14,6 @@
 <br>
 
 <div align='center'>
-<img src='https://github.com/zakhar-lobai/pojects/assets/29870526/18f69237-036c-4b79-a2b1-ebeedded846f'/>
+<img src='https://github.com/zakhar-lobai/menu/assets/29870526/37f18383-55b2-4256-b913-f6eccad658fd'/>
 
 </div>
