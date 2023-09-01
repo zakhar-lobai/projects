@@ -14,7 +14,7 @@ const Duties = ({ duties }) => {
                         <p>{duty}</p>
                     </div>
                 );
-            })};
+            })}
         </div>
     );
 };
