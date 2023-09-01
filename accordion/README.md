@@ -2,7 +2,7 @@
 
 <p>Simple Toggle</p>
 
-👉 Live Demo: <a href='https://zakharlobai-toggle.vercel.app/' target='_blank'>Live Demo</a>
+👉 Live Demo: <a href='https://zakharlobai-accordion.vercel.app/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
@@ -14,6 +14,6 @@
 <br>
 
 <div align='center'>
-<img src='https://github.com/zakhar-lobai/pojects/assets/29870526/18f69237-036c-4b79-a2b1-ebeedded846f'/>
+<img src='https://github.com/zakhar-lobai/accordion/assets/29870526/0e3392a2-6b4c-4e47-82e2-6fed136a7aac'/>
 
 </div>

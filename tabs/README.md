@@ -1,8 +1,8 @@
 <h2>About the project</h2>
 
-<p>Simple Menu Page with categories</p>
+<p>Simple Tabs</p>
 
-👉 Live Demo: <a href='https://zakharlobai-menu.vercel.app/' target='_blank'>Live Demo</a>
+👉 Live Demo: <a href='https://zakharlobai-tabs.vercel.app/' target='_blank'>Live Demo</a>
 
 <h3>Build with:</h3>
 
