@@ -2,6 +2,7 @@
 
 <p>Here I collect all my small projects</p>
 👉 Menu: <a href='https://zakharlobai-menu.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
+👉 Tabs: <a href='https://zakharlobai-tabs.vercel.app/'>Live Demo</a><br>
 👉 Accordion: <a href='https://zakharlobai-accordion.vercel.app/'>Live Demo</a><br>
 👉 Tours: <a href='https://zakharlobai-tours.vercel.app/'>Live Demo</a><br>
 👉 Birthdays: <a href='https://zakharlobai-birthday.vercel.app/' target='_blank'>Live Demo</a><br>
@@ -19,6 +20,10 @@
 
 <div align='center'>
 <img src='https://github.com/zakhar-lobai/menu/assets/29870526/37f18383-55b2-4256-b913-f6eccad658fd'/>
+</div>
+
+<div align='center'>
+<img src='https://github.com/zakhar-lobai/projects/assets/29870526/0c8ab831-4b99-4e22-b18a-d2efef5d0233'/>
 </div>
 
 <div align='center'>
