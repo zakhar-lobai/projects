@@ -2,7 +2,7 @@
 
 <p>Here I collect all my small projects</p>
 👉 Menu: <a href='https://zakharlobai-menu.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
-👉 Tabs: <a href='https://zakharlobai-tabs.vercel.app/'>Live Demo</a><br>
+👉 Tabs: <a href='https://zakharlobai-tabs.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
 👉 Accordion: <a href='https://zakharlobai-accordion.vercel.app/'>Live Demo</a><br>
 👉 Tours: <a href='https://zakharlobai-tours.vercel.app/'>Live Demo</a><br>
 👉 Birthdays: <a href='https://zakharlobai-birthday.vercel.app/' target='_blank'>Live Demo</a><br>
