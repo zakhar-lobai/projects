@@ -21,7 +21,7 @@
 <br>
 
 <div align='center'>
-<img src='https://github.com/zakhar-lobai/menu/assets/29870526/37f18383-55b2-4256-b913-f6eccad658fd'/>
+<img src='https://github.com/zakhar-lobai/lorem-ipsum-generator/assets/29870526/8e3a71f1-633d-4898-be32-b8b76d80d133'/>
 </div>
 
 <div align='center'>
