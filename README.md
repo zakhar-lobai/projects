@@ -1,9 +1,10 @@
 <h2>About the project</h2>
 
 <p>Here I collect all my projects</p>
-👉 Menu: <a href='https://zakharlobai-menu.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
-👉 Slider: <a href='https://zakharlobai-slider.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
-👉 Tabs: <a href='https://zakharlobai-tabs.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
+👉 Lorem-ipsum Generator: <a href='https://zakharlobai-lorem-ipsum-generator.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
+👉 Menu: <a href='https://zakharlobai-menu.vercel.app/' target='_blank'>Live Demo</a><br>
+👉 Slider: <a href='https://zakharlobai-slider.vercel.app/' target='_blank'>Live Demo</a><br>
+👉 Tabs: <a href='https://zakharlobai-tabs.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Accordion: <a href='https://zakharlobai-accordion.vercel.app/'>Live Demo</a><br>
 👉 Tours: <a href='https://zakharlobai-tours.vercel.app/'>Live Demo</a><br>
 👉 Birthdays: <a href='https://zakharlobai-birthday.vercel.app/' target='_blank'>Live Demo</a><br>
@@ -18,6 +19,10 @@
 
 <h2>Screenshots of the Projects 📸</h2>
 <br>
+
+<div align='center'>
+<img src='https://github.com/zakhar-lobai/menu/assets/29870526/37f18383-55b2-4256-b913-f6eccad658fd'/>
+</div>
 
 <div align='center'>
 <img src='https://github.com/zakhar-lobai/menu/assets/29870526/37f18383-55b2-4256-b913-f6eccad658fd'/>
