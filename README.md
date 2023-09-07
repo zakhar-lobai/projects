@@ -1,7 +1,8 @@
 <h2>About the project</h2>
 
 <p>Here I collect all my projects</p>
-👉 Lorem-ipsum Generator: <a href='https://zakharlobai-lorem-ipsum-generator.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
+👉 Color Generator: <a href='https://zakharlobai-color-generator.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
+👉 Lorem-ipsum Generator: <a href='https://zakharlobai-lorem-ipsum-generator.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Menu: <a href='https://zakharlobai-menu.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Slider: <a href='https://zakharlobai-slider.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Tabs: <a href='https://zakharlobai-tabs.vercel.app/' target='_blank'>Live Demo</a><br>
@@ -19,6 +20,10 @@
 
 <h2>Screenshots of the Projects 📸</h2>
 <br>
+
+<div align='center'>
+<img src='https://github.com/zakhar-lobai/color-generator/assets/29870526/eac76a13-dd28-4941-9bc5-5fd16fe2fac0'/>
+</div>
 
 <div align='center'>
 <img src='https://github.com/zakhar-lobai/lorem-ipsum-generator/assets/29870526/8e3a71f1-633d-4898-be32-b8b76d80d133'/>
