@@ -8,7 +8,7 @@ const Navbar = () => {
     const linksContainerRef = useRef(null);
     const linksRef = useRef(null);
     
-    const toggleLink = () => {
+    const toggleLinks = () => {
         setShowLinks(!showLinks);
     };
 
@@ -16,14 +16,14 @@ const Navbar = () => {
         height: showLinks
             ? `${linksRef.current.getBoundingClientRect().height}px`
             : '0px',
-    };
+    };  
 
     return (
         <nav>
             <div className="nav-center">
                 <div className="nav-header">
                     <img src={logo} className='logo' alt='logo' />
-                    <button className='nav-toggle' onClick={toggleLink}>
+                    <button className='nav-toggle' onClick={toggleLinks}>
                         <FaBars />
                     </button>
                 </div>
@@ -46,7 +46,7 @@ const Navbar = () => {
                         const { id, url, icon } = socialIcon;
                         return (
                             <li key={id}>
-                                <a href={url}>{icon}</a>
+                                <a href={url} target='_blank'>{icon}</a>
                             </li>
                         );
                     })}
