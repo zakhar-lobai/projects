@@ -2,7 +2,7 @@
 
 <p>Slidebar</p>
 
-👉 Live Demo: <a href='https://zakharlobai-slidebar.vercel.app/' target='_blank'>Live Demo</a>
+👉 Live Demo: <a href='https://zakharlobai-sidebar.vercel.app/' target='_blank'>Live Demo</a>
 
 <h3>Build with:</h3>
 
