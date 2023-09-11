@@ -2,7 +2,7 @@
 
 <p>Simple Slider using React Slick</p>
 
-👉 Live Demo: <a href='https://zakharlobai-sliedr.vercel.app/' target='_blank'>Live Demo</a>
+👉 Live Demo: <a href='https://zakharlobai-slider.vercel.app/' target='_blank'>Live Demo</a>
 
 <h3>Build with:</h3>
 
