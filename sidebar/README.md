@@ -8,8 +8,7 @@
 
 » HTML<br>
 » CSS<br>
-» React JS<br>
-» React Slick
+» React JS
 
 <h2>Screenshots of the Project 📸</h2>
 <br>

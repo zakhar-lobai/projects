@@ -2,6 +2,7 @@
 
 <p>Here I collect all my projects</p>
 👉 Color Generator: <a href='https://zakharlobai-color-generator.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
+👉 Sidemenu: <a href='https://zakharlobai-submenu.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Sidebar: <a href='https://zakharlobai-sidebar.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Grocery List: <a href='https://zakharlobai-grocery-list.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Lorem-ipsum Generator: <a href='https://zakharlobai-lorem-ipsum-generator.vercel.app/' target='_blank'>Live Demo</a><br>
@@ -25,6 +26,10 @@
 
 <div align='center'>
 <img src='https://github.com/zakhar-lobai/color-generator/assets/29870526/eac76a13-dd28-4941-9bc5-5fd16fe2fac0'/>
+</div>
+
+<div align='center'>
+<img src='https://github.com/zakhar-lobai/projects/assets/29870526/33f9d91e-2a88-46b9-92a7-e517c80c5aaa'/>
 </div>
 
 <div align='center'>
