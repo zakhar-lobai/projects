@@ -1,7 +1,7 @@
 <h2>About the project</h2>
 
 <p>Here I collect all my projects</p>
-👉 Cart:<a href='https://zakharlobai-cart.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
+👉 Cart: <a href='https://zakharlobai-cart.vercel.app/' target='_blank' style='margin-top: 20px'>Live Demo</a><br>
 👉 Color Generator: <a href='https://zakharlobai-color-generator.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Sidemenu: <a href='https://zakharlobai-submenu.vercel.app/' target='_blank'>Live Demo</a><br>
 👉 Sidebar: <a href='https://zakharlobai-sidebar.vercel.app/' target='_blank'>Live Demo</a><br>
